@@ -4,5 +4,6 @@
 
 - [masa-sumioto.com](https://www.masa-sumimoto.com/)
 
-## My Blag Latest 10 Posts
-
+## The latest 10 posts on my blog
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
