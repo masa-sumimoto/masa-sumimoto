@@ -1,9 +1,9 @@
 name: Latest blog post workflow
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-
+# on:
+#   schedule:
+#     - cron: '0 0 * * *'
+#   workflow_dispatch:
+on: {}
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -15,4 +15,3 @@ jobs:
         with:
           feed_list: "https://blog.masa-sumimoto.com/rss.xml"
           max_post_count: 10
-
