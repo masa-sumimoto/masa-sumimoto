@@ -1,3 +1,5 @@
+![XPADDING](images/cover-xpadding.png)
+
 **MASA-SUMIMOTO**
 
 Design Technologist based in Kobe, Japan  
